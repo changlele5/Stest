@@ -1,5 +1,5 @@
 # Stest
-### Stest.exe is an executable file of S-shaped relationship test for Windows 10/11 system, while stest.exe is its Python3 source code file.
+### Stest.exe is an executable file of S-shaped relationship test for Windows 10/11 system.
 ### If you need use the Stest.exe, please download and open it locally on your Windows 10/11 computer.
 #### Stest.exe has two modules, $\textbf{Main effect test}$ and $\textbf{Moderating effect test}$. 
 #### Choose function you need and type in the corresponding statistics, such as $\textbf{N}$(data size), $\textbf{X-mean}$(Mean of independent variable), $\textbf{b1}$(coefficient), $\textbf{s11}$(deviation). You can use softwares such as $\textbf{State}$ and $\textbf{SPSS}$ to obtain these parameters.
